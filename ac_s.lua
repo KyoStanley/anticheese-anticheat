@@ -2,7 +2,7 @@
 Components = {
 	Teleport = true,
 	GodMode = true,
-	Speedhack = true,
+	Speedhack = false,
 	WeaponBlacklist = true,
 	CustomFlag = true,
 	Explosions = true,

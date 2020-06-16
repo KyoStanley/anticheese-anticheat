@@ -3,6 +3,14 @@ BlacklistedWeapons = { -- weapons that will get people banned
 	"WEAPON_BALL",
 	"WEAPON_RAILGUN",
 	"WEAPON_GARBAGEBAG",
+	"weapon_firework",
+	"weapon_minigun",
+	"weapon_grenadelauncher",
+	"weapon_rpg",
+	"weapon_railgun",
+	"weapon_hominglauncher",
+	"weapon_compactlauncher",
+	"weapon_rayminigun",
 }
 
 CageObjs = {
@@ -14,7 +22,12 @@ CageObjs = {
 
 CarsBL = {	--BlackListed vehicles
 	"khanjali", --Example vehicles
-	"avenger"
+	"avenger",
+	"rhino",
+	"apc",
+	"barrage",
+	"hydra",
+	"lazer"
 }
 
 Citizen.CreateThread(function()
